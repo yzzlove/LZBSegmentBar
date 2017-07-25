@@ -4,7 +4,7 @@
 //
 //   作者：刘子彬（更多项目源码分享平台“开发者源代码” 微信号：developerCode 作者简介：iOS开发者，喜爱交流分享）
 //   如遇到问题或有更好方案，请通过以下方式进行联系，同时可以加入讨论群
-//   QQ群：490658347
+//   QQ群：490658347 欢迎大家进群交流
 //   简书：http://www.jianshu.com/u/268ed1ef819e
 //   github : https://github.com/lzbgithubcode/LZBSegmentBar
 
